@@ -13,5 +13,5 @@
 
 ## 🛠 Technologies Used
 
-- **Frontend:** hml.css .javascript
+- **Frontend:** hml.css .js
 
