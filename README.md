@@ -15,8 +15,3 @@
 
 - **Frontend:** hml.css .js
 
-🎥 Demo Video
-
-Watch the demo video on Telegram:
-
-👉 [Click to watch the video https://t.me/MsdezfoliBestPortfolio
